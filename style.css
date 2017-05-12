@@ -1,0 +1,132 @@
+body {
+	background-image: url("images/background2.png");
+}
+
+.stiil {
+	font-size:18px;
+	position:absolute;
+	top:150px;
+	left:30px;
+}
+
+#a {
+	position:absolute;
+	width: 100%;
+	font-family: Serif;
+	text-align: center;
+	font-size:50px;
+}
+
+
+#esimene {
+	position:absolute;
+	left:30px;
+	top:150px;
+	font-family: Serif;
+	text-align: center;
+	font-size:30px;
+}
+
+#teine {
+	position:absolute;
+	left:30px;
+	top:235px;
+	font-family: Serif;
+	text-align: center;
+	font-size:30px;
+}
+
+#kolmas {
+	position:absolute;
+	left:30px;
+	top:320px;
+	font-family: Serif;
+	text-align: center;
+	font-size:30px;
+}
+
+#erilised {
+	position:absolute;
+	left:30px;
+	top:425px;
+	font-family: Serif;
+	text-align: center;
+	font-size:30px;
+}
+
+
+img {
+
+	width:75px;
+	height:75px;
+	border-radius:5px;
+	border: 2px solid #000000;
+}
+
+#tile {
+	position:absolute;
+	top:150px;
+	left:30px;
+}
+
+#kaks {
+	margin-top:20px;
+}
+
+#kolm {
+	margin-top:20px;
+}
+
+#neli {
+	margin-top:20px;
+}
+
+#viis {
+	margin-top:20px;
+}
+
+#kuus {
+	margin-top:20px;
+}
+
+.tileStiil {
+	font-family: Serif;
+	font-size:18px;
+}
+
+#huvaNou {
+	margin-top:20px;
+}
+
+#julgus {
+	margin-top:20px;
+}
+
+#kiusatus {
+	margin-top:20px;
+}
+
+#kuristik {
+	margin-top:20px;
+}
+
+#kuninglikjahisarv {
+	margin-top:20px;
+}
+
+#modu {
+	margin-top:20px;
+}
+
+#purjutamine {
+	margin-top:20px;
+}
+
+#reetmine {
+	margin-top:20px;
+}
+
+#varandus {
+	margin-top:20px;
+	margin-bottom:50px;
+}
